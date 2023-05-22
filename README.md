@@ -4,7 +4,7 @@ O Alura MID é um projeto desenvolvido durante o curso "JavaScript para Web: Cri
 
 ![AluraMID](https://user-images.githubusercontent.com/3089882/136043109-1fc85faa-8cfb-4056-a144-98f0f75c2565.png)
 
-## 🛠️ Tecnologias utilizadas
+## 🤖 Tecnologias utilizadas
 
 - `HTML`
 - `CSS`
